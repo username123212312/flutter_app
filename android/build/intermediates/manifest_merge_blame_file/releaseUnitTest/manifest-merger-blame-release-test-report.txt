@@ -1,0 +1,29 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="io.flutter.plugins.flutter_plugin_android_lifecycle.test" >
+4
+5    <uses-sdk
+5-->D:\programming\Flutter Projects\chat_application\android\build\intermediates\tmp\manifest\test\release\tempFile1ProcessTestManifest3260275788776580027.xml:5:5-74
+6        android:minSdkVersion="19"
+6-->D:\programming\Flutter Projects\chat_application\android\build\intermediates\tmp\manifest\test\release\tempFile1ProcessTestManifest3260275788776580027.xml:5:15-41
+7        android:targetSdkVersion="19" />
+7-->D:\programming\Flutter Projects\chat_application\android\build\intermediates\tmp\manifest\test\release\tempFile1ProcessTestManifest3260275788776580027.xml:5:42-71
+8
+9    <instrumentation
+9-->D:\programming\Flutter Projects\chat_application\android\build\intermediates\tmp\manifest\test\release\tempFile1ProcessTestManifest3260275788776580027.xml:11:5-13:106
+10        android:name="android.test.InstrumentationTestRunner"
+10-->D:\programming\Flutter Projects\chat_application\android\build\intermediates\tmp\manifest\test\release\tempFile1ProcessTestManifest3260275788776580027.xml:11:22-75
+11        android:label="Tests for io.flutter.plugins.flutter_plugin_android_lifecycle.test"
+11-->D:\programming\Flutter Projects\chat_application\android\build\intermediates\tmp\manifest\test\release\tempFile1ProcessTestManifest3260275788776580027.xml:13:22-104
+12        android:targetPackage="io.flutter.plugins.flutter_plugin_android_lifecycle.test" />
+12-->D:\programming\Flutter Projects\chat_application\android\build\intermediates\tmp\manifest\test\release\tempFile1ProcessTestManifest3260275788776580027.xml:12:22-102
+13
+14    <application android:debuggable="true" >
+14-->D:\programming\Flutter Projects\chat_application\android\build\intermediates\tmp\manifest\test\release\tempFile1ProcessTestManifest3260275788776580027.xml:7:5-9:19
+14-->D:\programming\Flutter Projects\chat_application\android\build\intermediates\tmp\manifest\test\release\tempFile1ProcessTestManifest3260275788776580027.xml:7:18-43
+15        <uses-library android:name="android.test.runner" />
+15-->D:\programming\Flutter Projects\chat_application\android\build\intermediates\tmp\manifest\test\release\tempFile1ProcessTestManifest3260275788776580027.xml:8:9-60
+15-->D:\programming\Flutter Projects\chat_application\android\build\intermediates\tmp\manifest\test\release\tempFile1ProcessTestManifest3260275788776580027.xml:8:23-57
+16    </application>
+17
+18</manifest>

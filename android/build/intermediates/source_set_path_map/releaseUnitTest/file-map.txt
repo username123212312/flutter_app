@@ -1,0 +1,5 @@
+io.flutter.plugins.flutter_plugin_android_lifecycle.test-test-0 D:\programming\Flutter Projects\chat_application\android\build\generated\res\resValues\test\release
+io.flutter.plugins.flutter_plugin_android_lifecycle.test-mergeReleaseUnitTestResources-1 D:\programming\Flutter Projects\chat_application\android\build\intermediates\incremental\releaseUnitTest\mergeReleaseUnitTestResources\merged.dir
+io.flutter.plugins.flutter_plugin_android_lifecycle.test-mergeReleaseUnitTestResources-2 D:\programming\Flutter Projects\chat_application\android\build\intermediates\incremental\releaseUnitTest\mergeReleaseUnitTestResources\stripped.dir
+io.flutter.plugins.flutter_plugin_android_lifecycle.test-merged_res-3 D:\programming\Flutter Projects\chat_application\android\build\intermediates\merged_res\releaseUnitTest
+io.flutter.plugins.flutter_plugin_android_lifecycle.test-packaged_res-4 D:\programming\Flutter Projects\chat_application\android\build\intermediates\packaged_res\release

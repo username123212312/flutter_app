@@ -1,0 +1,27 @@
+<libraries>
+  <library
+      name="androidx.annotation:annotation-jvm:1.9.1@jar"
+      jars="C:\Users\Yousef Razzouk\.gradle\caches\modules-2\files-2.1\androidx.annotation\annotation-jvm\1.9.1\b17951747e38bf3986a24431b9ba0d039958aa5f\annotation-jvm-1.9.1.jar"
+      resolved="androidx.annotation:annotation-jvm:1.9.1"/>
+  <library
+      name="org.jetbrains.kotlin:kotlin-stdlib:1.9.24@jar"
+      jars="C:\Users\Yousef Razzouk\.gradle\caches\modules-2\files-2.1\org.jetbrains.kotlin\kotlin-stdlib\1.9.24\9928532f12c66ad816a625b3f9984f8368ca6d2b\kotlin-stdlib-1.9.24.jar"
+      resolved="org.jetbrains.kotlin:kotlin-stdlib:1.9.24"/>
+  <library
+      name="org.jetbrains:annotations:13.0@jar"
+      jars="C:\Users\Yousef Razzouk\.gradle\caches\modules-2\files-2.1\org.jetbrains\annotations\13.0\919f0dfe192fb4e063e7dacadee7f8bb9a2672a9\annotations-13.0.jar"
+      resolved="org.jetbrains:annotations:13.0"/>
+  <library
+      name="D:\programming\Flutter Projects\chat_application\android@@:::debug"
+      jars="D:\programming\Flutter Projects\chat_application\android\build\.transforms\a3f4410857b7d6ce2a621aefec9924ba\transformed\out\jars\classes.jar;D:\programming\Flutter Projects\chat_application\android\build\.transforms\a3f4410857b7d6ce2a621aefec9924ba\transformed\out\jars\libs\R.jar"
+      resolved="io.flutter.plugins.flutter_plugin_android_lifecycle:android:unspecified"
+      folder="D:\programming\Flutter Projects\chat_application\android\build\.transforms\a3f4410857b7d6ce2a621aefec9924ba\transformed\out"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+</libraries>

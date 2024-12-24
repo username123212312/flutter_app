@@ -1,0 +1,32 @@
+<dependencies>
+  <compile
+      roots="D:\programming\Flutter Projects\chat_application\android@@:::debug,androidx.annotation:annotation-jvm:1.9.1@jar,org.jetbrains.kotlin:kotlin-stdlib:1.9.24@jar,org.jetbrains:annotations:13.0@jar">
+    <dependency
+        name="D:\programming\Flutter Projects\chat_application\android@@:::debug"
+        simpleName="io.flutter.plugins.flutter_plugin_android_lifecycle:android"/>
+    <dependency
+        name="androidx.annotation:annotation-jvm:1.9.1@jar"
+        simpleName="androidx.annotation:annotation-jvm"/>
+    <dependency
+        name="org.jetbrains.kotlin:kotlin-stdlib:1.9.24@jar"
+        simpleName="org.jetbrains.kotlin:kotlin-stdlib"/>
+    <dependency
+        name="org.jetbrains:annotations:13.0@jar"
+        simpleName="org.jetbrains:annotations"/>
+  </compile>
+  <package
+      roots="D:\programming\Flutter Projects\chat_application\android@@:::debug,androidx.annotation:annotation-jvm:1.9.1@jar,org.jetbrains.kotlin:kotlin-stdlib:1.9.24@jar,org.jetbrains:annotations:13.0@jar">
+    <dependency
+        name="D:\programming\Flutter Projects\chat_application\android@@:::debug"
+        simpleName="io.flutter.plugins.flutter_plugin_android_lifecycle:android"/>
+    <dependency
+        name="androidx.annotation:annotation-jvm:1.9.1@jar"
+        simpleName="androidx.annotation:annotation-jvm"/>
+    <dependency
+        name="org.jetbrains.kotlin:kotlin-stdlib:1.9.24@jar"
+        simpleName="org.jetbrains.kotlin:kotlin-stdlib"/>
+    <dependency
+        name="org.jetbrains:annotations:13.0@jar"
+        simpleName="org.jetbrains:annotations"/>
+  </package>
+</dependencies>

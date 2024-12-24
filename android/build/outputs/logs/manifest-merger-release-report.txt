@@ -1,0 +1,16 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\programming\Flutter Projects\chat_application\android\build\intermediates\tmp\ProcessLibraryManifest\release\tempAndroidManifest120329462098734595.xml:2:13-83
+INJECTED from D:\programming\Flutter Projects\chat_application\android\build\intermediates\tmp\ProcessLibraryManifest\release\tempAndroidManifest120329462098734595.xml:2:13-83
+	package
+		INJECTED from D:\programming\Flutter Projects\chat_application\android\build\intermediates\tmp\ProcessLibraryManifest\release\tempAndroidManifest120329462098734595.xml
+	xmlns:android
+		ADDED from D:\programming\Flutter Projects\chat_application\android\build\intermediates\tmp\ProcessLibraryManifest\release\tempAndroidManifest120329462098734595.xml:2:23-81
+uses-sdk
+INJECTED from D:\programming\Flutter Projects\chat_application\android\build\intermediates\tmp\ProcessLibraryManifest\release\tempAndroidManifest120329462098734595.xml reason: use-sdk injection requested
+INJECTED from D:\programming\Flutter Projects\chat_application\android\build\intermediates\tmp\ProcessLibraryManifest\release\tempAndroidManifest120329462098734595.xml
+INJECTED from D:\programming\Flutter Projects\chat_application\android\build\intermediates\tmp\ProcessLibraryManifest\release\tempAndroidManifest120329462098734595.xml
+	android:targetSdkVersion
+		INJECTED from D:\programming\Flutter Projects\chat_application\android\build\intermediates\tmp\ProcessLibraryManifest\release\tempAndroidManifest120329462098734595.xml
+	android:minSdkVersion
+		INJECTED from D:\programming\Flutter Projects\chat_application\android\build\intermediates\tmp\ProcessLibraryManifest\release\tempAndroidManifest120329462098734595.xml

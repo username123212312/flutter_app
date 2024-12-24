@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<incidents format="6" by="lint 8.1.0" type="incidents">
+
+    <incident
+        id="PropertyEscape"
+        severity="error"
+        message="Windows file separators (`\`) and drive letter separators (&apos;:&apos;) must be escaped (`\\`) in property files; use C\\:\\\\Users\\\\Yousef-Razzouk\\\\AppData\\\\Local">
+        <fix-replace
+            description="Escape"
+            oldString=":"
+            replacement="\:"/>
+        <location
+            file="${:*projectDir}/local.properties"
+            line="1"
+            column="10"
+            startOffset="9"
+            endLine="1"
+            endColumn="11"
+            endOffset="10"/>
+    </incident>
+
+    <incident
+        id="PropertyEscape"
+        severity="error"
+        message="Windows file separators (`\`) and drive letter separators (&apos;:&apos;) must be escaped (`\\`) in property files; use C\\:\\\\Flutter\\\\flutter">
+        <fix-replace
+            description="Escape"
+            oldString=":"
+            replacement="\:"/>
+        <location
+            file="${:*projectDir}/local.properties"
+            line="2"
+            column="14"
+            startOffset="63"
+            endLine="2"
+            endColumn="15"
+            endOffset="64"/>
+    </incident>
+
+</incidents>
